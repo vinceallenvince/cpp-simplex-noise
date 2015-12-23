@@ -1,3 +1,9 @@
+//
+// Ported from Stefan Gustavson's java implementation of Perling noise.
+// Read Stefan's excellent paper for details on how this code works.
+// http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf
+//
+
 #ifndef __SimplexNoise__SimplexNoise__
 #define __SimplexNoise__SimplexNoise__
 

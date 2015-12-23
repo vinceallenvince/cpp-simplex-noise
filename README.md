@@ -4,7 +4,7 @@ Ported from Stefan Gustavson's java implementation of Perling noise. Read Stefan
 
 ### Example
 
-If you're on a mac, clone this repo, open your terminal and navigate to the clone. Type the following.
+If you're on a Mac, clone this repo, open your terminal and navigate to the clone. Type the following.
 
 ```
 ./SimplexNoise.out
