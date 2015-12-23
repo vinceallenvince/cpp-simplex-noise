@@ -9,3 +9,6 @@ If you're on a mac, clone this repo, open your terminal and navigate to the clon
 ```
 ./SimplexNoise.out
 ```
+
+![Simplex Noise on the command line](https://raw.githubusercontent.com/vinceallenvince/cpp-simplex-noise/master/SimplexNoise.jpg)
+
